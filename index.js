@@ -1,4 +1,4 @@
-  var link_base = "https://api.katabamia.me/v1/ssg/index.php?";
+  var link_base = "https://cdn.kataba.me/api/v1/ssg/index.php?";
 var lnk = "";
   
   var isPrev = document.getElementById("isprev");
